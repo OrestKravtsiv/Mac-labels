@@ -38,6 +38,7 @@ keyboards:
   - KB-SF: Swiss French (QWERTZ)
   - KB-US: US English (QWERTY)
   - KB-TA: Taiwan
+  - KB-LA: Latin America
   - WLKB-F: French (AZERTY), with numeric pad # found on iMac 27" Retina 5K 2019
 other locales: # some people on the web say it's "the country where it was sold in / sold to", but it's not exactly that, since Macs sold in France are "/BEL"…
   - BEL: Belgium ??? # found on Macs sold in France !!!, either with KB-F or KB-SF
